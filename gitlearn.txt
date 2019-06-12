@@ -5,4 +5,9 @@ $ git status --查看当前分支状态
 $ git diff gitlearn.txt --查看当前分支对应文件修改详情
 --测试版本回退
 
+$ git log --查看提交日志
+$ git log --pretty=oneline  --查看提交日志，单行简写显示
+
+
+
 
