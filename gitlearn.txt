@@ -3,10 +3,17 @@ $ git config --global user.email "422694416@qq.com" --添加邮箱地址
 $ git add gitlearn.txt --添加文件
 $ git status --查看当前分支状态
 $ git diff gitlearn.txt --查看当前分支对应文件修改详情
---测试版本回退
 
 $ git log --查看提交日志
 $ git log --pretty=oneline  --查看提交日志，单行简写显示
+$ git reset --hard HEAD^ --版本回退一次
+$ git reset --hard HEAD~100 --版本回退100次
+$ git reflog -- 查看每一次版本记录
+$ git reset --hard 2019113 --版本回退至指定ID
+
+
+
+
 
 
 
