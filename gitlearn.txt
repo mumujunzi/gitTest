@@ -3,5 +3,6 @@ $ git config --global user.email "422694416@qq.com" --添加邮箱地址
 $ git add gitlearn.txt --添加文件
 $ git status --查看当前分支状态
 $ git diff gitlearn.txt --查看当前分支对应文件修改详情
+--测试版本回退
 
 
