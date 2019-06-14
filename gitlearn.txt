@@ -12,6 +12,8 @@ $ git reflog -- 查看每一次版本记录
 $ git reset --hard 2019113 --版本回退至指定ID
 $ git checkout gitlearn.txt --撤销工作区修改
 $ git reset HEAD gitlearn.txt --将暂存区修改回退到工作区
+$ ssh-keygen -t rsa -C "422694416@qq.com" --创建SSHkey
+
 
 
 
