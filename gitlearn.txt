@@ -13,6 +13,11 @@ $ git reset --hard 2019113 --版本回退至指定ID
 $ git checkout gitlearn.txt --撤销工作区修改
 $ git reset HEAD gitlearn.txt --将暂存区修改回退到工作区
 $ ssh-keygen -t rsa -C "422694416@qq.com" --创建SSHkey
+$ git remote add origin git@github.com:mumujunzi/gitTest.git --关联远程库
+$ git push -u origin master --将本地库内容推送至远程库
+
+
+
 
 
 
